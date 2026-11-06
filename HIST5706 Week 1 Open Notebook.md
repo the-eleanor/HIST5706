@@ -1,17 +1,21 @@
 
 -Everybody is shit at coding!
+
 	-Process is more important than result
 	-Things that break are still progress, still a place to learn
 	-Learn more from failures than successes
 
 -The transformation is the important bit, where the scholarly part comes in, where changes happen and theory is expressed
+
 	-What is affected by the transformation of format?
 
 -Come away from this class with an expanded sense of what you can do
+
 	-Foundational abilities to do that work
 	-Failure is important because you will have a better grasp of the process than just doing exactly what someone else is doing
 
 Unessay and experiment assignment are linked
+
 -Data, metadata, paradata
 -Paradata is where the learning happens - personal adventure of what happened
 -Paradata is what goes into the unessay
